@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, soy Aarón Rosales</h1>
 <h3 align="center">💻Estudiante de ingeniería en la UCA.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀Me gusta experimentar con distintas tecnologias.</h3>
+
 <p align="left">
 </p>
 
